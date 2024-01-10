@@ -22,25 +22,25 @@ Structure
 •	Navigate to index.php to view articles.  
 Article Page:  
 •	Click on an article title on the home page to view the full article on clanak.php.  
-Administration Page:
-•	Log in as an admin user (username: lala, password: lala).
-•	Navigate to administracija.php to manage articles.
-Adding New Article:
-•	Log in as an admin user.
-•	Visit unos.php to add a new article.
-User Registration:
-•	Visit registracija.php to register a new user.
-Logging Out:
-•	Click on the "Log Out" link or navigate to logout.php to log out.
+Administration Page:  
+•	Log in as an admin user (username: lala, password: lala).  
+•	Navigate to administracija.php to manage articles.  
+Adding New Article:  
+•	Log in as an admin user.  
+•	Visit unos.php to add a new article.  
+User Registration:  
+•	Visit registracija.php to register a new user.  
+Logging Out:  
+•	Click on the "Log Out" link or navigate to logout.php to log out.  
+  
 
-
-Viewing and administering news articles:
-
-After logging in, you can view and administer news articles.
-The news articles are displayed in forms that allow editing and deleting existing articles.
-If you want to test administrative functionalities, use the provided login information.
-
-Viewing an individual article:
-
-By clicking on the title of a news article on the homepage, you can see details about a specific article.
+Viewing and administering news articles:  
+  
+After logging in, you can view and administer news articles.  
+The news articles are displayed in forms that allow editing and deleting existing articles.  
+If you want to test administrative functionalities, use the provided login information.  
+  
+Viewing an individual article:  
+  
+By clicking on the title of a news article on the homepage, you can see details about a specific article.  
 The details include the title, category, author, publication date, summary, content, and an image of the article.
